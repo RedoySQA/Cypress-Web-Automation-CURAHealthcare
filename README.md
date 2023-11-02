@@ -16,6 +16,7 @@
    - Vs Code
    - Cypress
    - Chai Mocha
+   - Mochaawsome report
 ## Project Report
    ![screencapture-file-C-Users-Hridoy-Documents-Cypress-Web-Automation-Web-Automation-With-Cypress-cypress-reports-html-index-html-2023-11-02-18_13_15](https://github.com/RedoySQA/Cypress-Web-Automation-CURAHealthcare/assets/143482478/665b71a4-5c96-4433-90b2-804d2920ba51)
 ## Automation Output Video
